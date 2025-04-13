@@ -1,7 +1,6 @@
 import { useState } from "react";
-import "./Sidebar.css"; // 👈 create this file
+import "./Sidebar.css";
 
-// Modified questions array with multiple code examples
 const questions = [
   {
     id: 1,
